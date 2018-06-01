@@ -1,7 +1,5 @@
-# AHundredAlbums
+# HighestPointsByMainlandCounty
 
-A list of my previous and current favourite albums/EPs. 
+A list of the highest points of each mainland UK county.
 
-I may never listen to some of them now, but I cannot deny the profound effect they had on me at the time.
-
-https://tomsheridancox.github.io/AHundredAlbums/
+https://tomsheridancox.github.io/HighestPointsByMainlandCounty/
