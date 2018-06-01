@@ -26,29 +26,28 @@
 			$(document).ready(function($){
 				$("#myTable").tablesorter({
 					headers: {
-						3: {
-							sorter: false
-						}
+					
 					}			
 				}); 
 			});
 		</script> 
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 		<link rel="stylesheet" href="style.css">
-		<title>A Hundred Albums</title>
+		<title>The Highest Point in Each Mainland County</title>
 	</head>
 	<body>
 		<header>
-			A Hundred Albums
-			<p>Just a list of the albums that have stuck with me.</p>
+			The Highest Point in Each Mainland County
+			<p>I intend to summit each one.</p>
 			<p id="errorMessage">You may have to refresh to be able to sort the table...</p>
 			<table id="myTable" class="tablesorter">
 				<thead>
 					<tr>
-						<th>Album Name</th>
-						<th>Artist</th>
-						<th>Year</th>
-						<th>Album Highlights</th>
+						<th>County/Principal Areas</th>
+						<th>Name</th>
+						<th>Height (m)</th>
+						<th>Country</th>
+						<th>Summited?</th>
 					</tr>
 				</thead>
 			</table>
