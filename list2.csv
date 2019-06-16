@@ -38,12 +38,12 @@ Midlothian,651,Blackhope Scar,Scotland,
 Derbyshire,636,Kinder Scout,England,
 Lancashire,628,Gragareth,England,
 Devon,621,High Willhays,England,
-Neath Port Talbot,600,Craig y Llyn,Wales,
-Rhondda Cynon Taff,595,Craig y Llyn,Wales,
+Neath Port Talbot,600,Craig y Llyn,Wales,Yes
+Rhondda Cynon Taff,595,Craig y Llyn,Wales,Yes
 West Yorkshire,582,Black Hill,England,
 Blaenau Gwent,581,Coity Mountain,Wales,
 Torfaen,581,Coity Mountain,Wales,
-Bridgend,568,Mynydd Llangeinwyr,Wales,
+Bridgend,568,Mynydd Llangeinwyr,Wales,Yes
 Cheshire,559,Shining Tor,England,
 Flintshire,554,Moel Famau,Wales,
 South Yorkshire,548,High Stones,England,
@@ -67,8 +67,8 @@ Swansea,374,Mynydd y Betws,Wales,
 Gloucestershire,330,Cleeve Hill,England,Yes
 Wigtownshire,322,Craigairie Fell,Scotland,
 West Lothian,312,Cairnpapple Hill (South Top),Scotland,
-Newport,309,Wentwood,Wales,
-Cardiff,307,Garth Hill,Wales,
+Newport,309,Wentwood,Wales,Yes
+Cardiff,307,Garth Hill,Wales,Yes
 Berkshire,297,Walbury Hill,England,
 Surrey,295,Leith Hill,England,
 Wiltshire,294,Milk Hill,England,Yes
@@ -97,7 +97,7 @@ Lincolnshire,168,Normanby le Wold Top,England,
 Bristol,160,east of Dundry Hill,England,
 Essex,147,Chrishall Common,England,
 Cambridgeshire,146,Great Chishill,England,
-Vale of Glamorgan,137,Pantylladron,Wales,
+Vale of Glamorgan,137,Pantylladron,Wales,Yes
 Suffolk,128,Great Wood Hill,England,
 Norfolk,103,Beacon Hill,England,
 City of London,22,High Holborn,England,
