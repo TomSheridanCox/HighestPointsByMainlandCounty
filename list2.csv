@@ -9,11 +9,11 @@ Angus,1068,Glas Maol,Scotland,
 Conwy,1064,Carnedd Llewelyn,Wales,Yes
 Sutherland,998,Ben More Assynt,Scotland,
 Cumbria,978,Scafell Pike,England,
-Stirlingshire,974,Ben Lomond,Scotland,
+Stirlingshire,974,Ben Lomond,Scotland,Yes
 Dunbartonshire,943,Ben Vorlich,Scotland,
 Powys,886,Pen y Fan,Wales,Yes
 Bute,874,Goatfell,Scotland,
-Kirkcudbrightshire,843,Merrick,Scotland,
+Kirkcudbrightshire,843,Merrick,Scotland,Yes
 Peeblesshire,840,Broad Law,Scotland,
 Selkirkshire,840,Broad Law,Scotland,
 Denbighshire,830,Cadair Berwyn,Wales,Yes
@@ -54,7 +54,7 @@ East Lothian,535,Meikle Says Law,Scotland,
 Caerphilly,535,Twyn Pwll Morlais,Wales,
 Berwickshire,532,Meikle Says Law shoulder,Scotland,
 Fife,522,West Lomond,Scotland,
-Renfrewshire,522,Hill of Stake,Scotland,
+Renfrewshire,522,Hill of Stake,Scotland,Yes
 Staffordshire,520,Cheeks Point on Cheeks Hill[4],England,
 Somerset,519,Dunkery Beacon,England,
 Merthyr Tydfil,515,Waun Llysiog,Wales,
@@ -65,7 +65,7 @@ Worcestershire,425,Worcestershire Beacon,England,
 Cornwall,420,Brown Willy,England,
 Swansea,374,Mynydd y Betws,Wales,
 Gloucestershire,330,Cleeve Hill,England,Yes
-Wigtownshire,322,Craigairie Fell,Scotland,
+Wigtownshire,322,Craigairie Fell,Scotland,Yes
 West Lothian,312,Cairnpapple Hill (South Top),Scotland,
 Newport,309,Wentwood,Wales,Yes
 Cardiff,307,Garth Hill,Wales,Yes
