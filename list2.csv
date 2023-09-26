@@ -32,7 +32,7 @@ Clackmannanshire,721,Ben Cleuch,Scotland,
 Moray,710,Carn a' Ghille Chearr,Scotland,
 Caithness,706,Morven,Scotland,
 Herefordshire,703,Black Mountain,England,
-Monmouthshire,679,Chwarel y Fan,Wales,
+Monmouthshire,679,Chwarel y Fan,Wales,Yes
 Nairnshire,659,Carn Glas-choire,Scotland,
 Midlothian,651,Blackhope Scar,Scotland,
 Derbyshire,636,Kinder Scout,England,
@@ -41,8 +41,8 @@ Devon,621,High Willhays,England,
 Neath Port Talbot,600,Craig y Llyn,Wales,Yes
 Rhondda Cynon Taff,595,Craig y Llyn,Wales,Yes
 West Yorkshire,582,Black Hill,England,
-Blaenau Gwent,581,Coity Mountain,Wales,
-Torfaen,581,Coity Mountain,Wales,
+Blaenau Gwent,581,Coity Mountain,Wales,Yes
+Torfaen,581,Coity Mountain,Wales,Yes
 Bridgend,568,Mynydd Llangeinwyr,Wales,Yes
 Cheshire,559,Shining Tor,England,
 Flintshire,554,Moel Famau,Wales,
@@ -63,7 +63,7 @@ Orkney,481,Ward Hill,Scotland,
 Shetland,450,Ronas Hill,Scotland,
 Worcestershire,425,Worcestershire Beacon,England,Yes
 Cornwall,420,Brown Willy,England,
-Swansea,374,Mynydd y Betws,Wales,
+Swansea,374,Mynydd y Betws,Wales,Yes
 Gloucestershire,330,Cleeve Hill,England,Yes
 Wigtownshire,322,Craigairie Fell,Scotland,Yes
 West Lothian,312,Cairnpapple Hill (South Top),Scotland,
